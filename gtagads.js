@@ -1,4 +1,4 @@
-export default gtagads = () => {
-    console.log('gtag initialized')
-    return;
-}
+(function () {
+    console.log(`gtag initialized`)    
+}())
+
