@@ -5,7 +5,7 @@
     "main": "gtagads.js",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/your-git-url.git"
+      "url": "git+https://github.com/vigikaran/gtagads.git"
     },
     "keywords": [
       "gtag"
