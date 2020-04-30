@@ -1,0 +1,20 @@
+{
+    "name": "gtagads",
+    "version": "1.0.0",
+    "description": "Insert Ads using gtag",
+    "main": "gtagads.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/your-git-url.git"
+    },
+    "keywords": [
+      "gtag"
+    ]
+    ,
+    "author": "Codecrafter",
+    "license": "MIT",
+    "dependencies": {
+
+    },
+    "homepage": "https://github.com"
+  }
