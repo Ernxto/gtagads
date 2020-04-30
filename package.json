@@ -1,6 +1,6 @@
 {
     "name": "gtagads",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Insert Ads using gtag",
     "main": "gtagads.js",
     "repository": {
